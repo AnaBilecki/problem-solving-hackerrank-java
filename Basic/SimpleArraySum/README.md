@@ -32,8 +32,9 @@ for (Integer number : array) {
 Lê-se: "Para cada inteiro **_number_** contido na lista **_array_** fazer... _(instrução)_".
 Conforme a instrução dada, esse loop irá iterar a lista pegando cada elemento contido nela e somando à variável **_sum_**. Exemplo:
 
-_Dada uma lista com 3 elementos [2, 5, 8], o resultado seria **15**:_
+_Dada uma lista com 3 elementos [2, 5, 8], o resultado será **15**:_
 		
-![image](https://user-images.githubusercontent.com/84636509/163020598-4a5e15d2-59b5-4cec-980f-8cec815a5b01.png)
+![image](https://user-images.githubusercontent.com/84636509/163021607-1153fa5f-08d4-45a2-accd-409db99fd35d.png)
+
 
 3. Por fim, retorna-se a variável **_sum_**.
