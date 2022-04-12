@@ -5,6 +5,7 @@ Este repositório é uma coleção de soluções comentadas dos desafios encontr
 ## :trophy: Desafios
 
 ### :smile_cat: **Basic**
+   * [Compare the Triplets](https://github.com/AnaBilecki/problem-solving-hackerrank-java/tree/main/Basic/CompareTheTriplets)
    * [Simple Array Sum](https://github.com/AnaBilecki/problem-solving-hackerrank-java/tree/main/Basic/SimpleArraySum)
 
 ### :smiley_cat: **Intermediate**
