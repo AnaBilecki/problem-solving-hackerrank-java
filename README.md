@@ -8,10 +8,10 @@ Este repositório é uma coleção de soluções comentadas dos desafios encontr
    * [Simple Array Sum](https://github.com/AnaBilecki/problem-solving-hackerrank-java/tree/main/Basic/SimpleArraySum)
 
 ### :smiley_cat: **Intermediate**
-   * []()
+   * :construction: Pendente :construction:
 
 ### :smirk_cat:	**Advanced**
-   * []()
+   * :construction: Pendente :construction:
 
 ## :woman_technologist: Autora
 
