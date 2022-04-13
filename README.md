@@ -1,6 +1,8 @@
 # Soluções HackerRank - Problem Solving
 
-Este repositório é uma coleção de soluções comentadas dos desafios encontrados no tópico _Problem Solving_ do _site_ [HackerRank](https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving).
+![GitHub](https://img.shields.io/github/license/AnaBilecki/problem-solving-hackerrank-java?style=for-the-badge)
+
+Este repositório é uma coleção de soluções Java comentadas dos desafios encontrados no tópico _Problem Solving_ do _site_ [HackerRank](https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving).
 
 ## :trophy: Desafios
 
