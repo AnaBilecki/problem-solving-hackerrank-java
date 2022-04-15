@@ -8,6 +8,7 @@ Este repositório é uma coleção de soluções Java comentadas dos desafios en
 
 ### :smile_cat: **Basic**
    * [Compare the Triplets](https://github.com/AnaBilecki/problem-solving-hackerrank-java/tree/main/Basic/CompareTheTriplets)
+   * [Diagonal Difference](https://github.com/AnaBilecki/problem-solving-hackerrank-java/tree/main/Basic/DiagonalDifference)
    * [Simple Array Sum](https://github.com/AnaBilecki/problem-solving-hackerrank-java/tree/main/Basic/SimpleArraySum)
 
 ### :smiley_cat: **Intermediate**
